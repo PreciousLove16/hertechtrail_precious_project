@@ -70,7 +70,7 @@ html, body {
 	height: 100%;
 }
 body {
-	background: #151515;
+	background: #0a042b;
 	font-family: "lora-regular", serif;
 	font-size: 1.7rem;
 	line-height: 3rem;
@@ -1112,14 +1112,14 @@ header .logo {
 header .logo a {
 	display: block;
 	margin: 0;
-	padding: 0;
+	padding: 10px;
 	border: none;
 	font: 0/0 a;
 	text-shadow: none;
 	color: transparent;
 	width: 92px;
 	height: 15px;
-	background: url("../images/logo.png") no-repeat center;
+	background: url("../images/logo\ 5.png") no-repeat center;
 	background-size: 92px 15px;
 }
 
@@ -1374,7 +1374,7 @@ header .logo a {
 }
 .intro-content .button {
 	color: #FFFFFF !important;
-	border-color: rgba(255, 255, 255, 0.3);
+	border-color: rgba(60, 13, 146, 0.3);
 	height: 6rem !important;
 	line-height: 5.4rem !important;
 	padding: 0 3.5rem 0 3rem !important;
@@ -1385,6 +1385,7 @@ header .logo a {
 }
 .intro-content .button:hover, .intro-content .button:focus {
 	border-color: #cc005f;
+	border: solid;
 }
 .intro-content .button::after {
 	display: inline-block;
@@ -2525,6 +2526,7 @@ footer .footer-social li a {
 }
 footer .copyright span {
 	display: inline-block;
+	font-size: 12px;
 }
 footer .copyright span::after {
 	content: "|";
