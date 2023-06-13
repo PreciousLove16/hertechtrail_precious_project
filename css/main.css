@@ -1095,9 +1095,9 @@ header .row {
 }
 header .top-bar {
 	display: block;
-	background: #000000;
-	min-width: 220px;
-	min-height: 66px;
+	background: transparent;
+	min-width: 250px;
+	min-height: 69px;
 	position: absolute;
 	left: 90px;
 	top: 0;
@@ -1118,9 +1118,9 @@ header .logo a {
 	text-shadow: none;
 	color: transparent;
 	width: 92px;
-	height: 15px;
+	height: 30px;
 	background: url("../images/logo\ 5.png") no-repeat center;
-	background-size: 92px 15px;
+	background-size: 90px 90px;
 }
 
 /**
@@ -1294,7 +1294,7 @@ header .logo a {
  * ------------------------------------------------------------------- 
  */
 #intro {
-	background: #151515 url(../images/intro-bg.jpg) no-repeat center bottom;
+	background: #151515 url(../images/background\ img.jpg) no-repeat center bottom;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
