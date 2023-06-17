@@ -2,82 +2,34 @@
 ==================================================================================================
 
 
-==================================================================================================
+==========================================================================================
+My name is Precious Love, A Frontend Web Developer student with HerTechTrail Academy Cohort 6 Starter Track. For my Capstone Project, I was tasked to design a Portfolio Website which is aimed at showcasing my skills and proficiency in the Basic frontend languages like, HTML, CSS, Bootstrap and Javascript.
 
 
-LICENSE:
-KARDS is released under the Creative Commons Attribution 3.0 License
-(http://creativecommons.org/licenses/by/3.0/). This means that you are free:
 
-   to Share - to copy, distribute, display, and perform the work
-   to Remix - to make derivative works
-   to make commercial use of the work 
-
-Under the following conditions:
-
-   Attribution - You must attribute the work in the manner specified by the 
-   author or licensor (but not in any way that suggests that they endorse you 
-   or your use of the work). 
-
-   For any reuse or distribution, you must make clear to others the license 
-   terms of this work
-
-   Any of these conditions can be waived if you get permission from the 
-   copyright holder
-
-Attribution: 
-	
-   You must include a credit link to our website(http://www.Styleshout.com) somewhere on
-   your site. We prefer the footer credit that comes with the template but you are still 
-   free to move it somewhere else.
+The whole experience has been exhilarating despite the challenges I faced putting it together. I started out by trying to come up with a theme that would appeal to users visually as well as a responsive interface. This I achieved by reaching out to friends and getting their opinions after mapping out the structure using HTML and styling the basics with CSS.
 
 
------------------------------------------------------------------------------------------------------
+
+I also struggled with making my page responsive across different screen sizes, hence my applying responsive frameworks like bootstrap which has pre-designed components that aids responsiveness across all screens and eased the workload.
 
 
-REMOVING THE LINK:
 
-We understand that there are situations where you want to use the template without the 
-crediting obligation. If that's your case, you can always send us a 
-credit removal fee of 10 USD through Paypal. This will allow you to use the 
-template attribution/credit link free on ONE DOMAIN name. 
-
-You can send your payments through Paypal to this address: ealigam@gmail.com
-
-If possible, kindly send us the site's url where the template is being used. 
-Also, keep your Paypal receipt as proof of payment and your good to go.
+I used Javascript to enhance, implement and activate interactive elements like modal pop ups. 
 
 
------------------------------------------------------------------------------------------------------- 
+
+During the course of this project, I gained solid understanding of the various coding languages and how to effectively apply them to my webpage. I also learned how to debug and maneuver technical challenges that came with writing long codes. I became grounded in using research and leveraging mentorship to achieve milestone projects.
 
 
-SUPPORT:
-    
-Since KARDS is distributed for free, support is not offered. KARDS is coded according 
-to current web standards and we did our best to make the template easy to use and modify.
-If you have minimum web development experience, you can easily modify the template. 
-However, If you're still new to HTML and CSS, I suggest that you visit the 
-following tutorials:
-
- - http://tutsplus.com/course/30-days-to-learn-html-and-css/
- - http://learn.shayhowe.com/html-css/
-
-These will teach you the essentials of HTML and CSS. In addition, if you want to include
-jQuery in your skill-set, you can also check out these tutorials: 
-
- - http://code.tutsplus.com/courses/30-days-to-learn-jquery
- - http://try.jquery.com/
 
 
------------------------------------------------------------------------------------------------------- 
+
+In summary i've had a rewarding and thrilling journey at HerTechTrail. Its been a bout of excitement, creativity and continuous learning.
 
 
-GET THE LATEST VERSION:
 
-We update our templates on a regular basis so to make sure that you have the latest version, 
-always download the template files directly at our website(http://www.styleshout.com/)
-
-
+I want to thank HerTechTrail for this rare opportunity and for creating a safe space for women to aim for the moon and live their dreams. To my coaches Jesse Josiah Nkemdili Ezike Edozie Magdalene  for their patience and guidance in the course of my learning journey. To the brain behind HerTechTrail madam Gloria Ojukwu, thank you for daring to dream of a time when women will compete effectively in the tech space. I am truly blessed to have been a part of this program. 
 
 -------------------------------------------------------------------------------------------------------
 
@@ -118,7 +70,5 @@ Javascript Files:
 
 --------------------------------------------------------------------------------------------------------- 
 
-
-Thanks for downloading from Styleshout :)
   
 
